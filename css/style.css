@@ -1284,13 +1284,6 @@ figure.dotted-bg:before {
   padding-left: 15px !important;
 }
 
-@media (max-width: 991.98px) {
-  .gutter-isotope-item > .col,
-  .gutter-isotope-item > [class*="col-"] {
-    padding-right: 15px !important;
-    padding-left: 15px !important;
-  }
-}
 
 .isotope-mb-2 {
   margin-bottom: 30px !important;
